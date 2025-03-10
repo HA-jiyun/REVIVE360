@@ -1,13 +1,13 @@
-# 💓REVIVE 360 
+# 💓REVIVE 360 demo 
 Team Project for Multimodal Mixed Reality 
-<br>
-<br> 
+CPR Simulation with Augmented Reality 
+
 ### 👩‍💻Role 
 * プロジェクトリード
 * シーン構成
 * 相互作用適用
 * プロジェクト設計
-* UI適用
+* UI適用 
 
 ### 📃Environment 
 * Unity 2022.3.21f 
