@@ -3,7 +3,11 @@ Team Project for Multimodal Mixed Reality
 <br>
 <br> 
 ### Role 
-担当パート: プロジェクトリード、シーン構成、相互作用適用、プロジェクト設計、UI適用 
+* プロジェクトリード
+* シーン構成
+* 相互作用適用
+* プロジェクト設計
+* UI適用 
 <br>
 <br>
 ### Environment 
