@@ -2,6 +2,7 @@
 CPR Simulation with Augmented Reality 
 
 ### ✳ Introduction
+CPRは重要ですが、実際にトレーニングを体験する機会は限られています。そこて、HMDを使用して、より手軽にCPRシミュレーションを行えるように設計したデモプロジェクトです。
 
 ### ✳ Environment 
 * Unity 2022.3.21f 
@@ -15,8 +16,10 @@ CPR Simulation with Augmented Reality
 * UI適用
 
 ### ✳ Features
+実際のプロジェクトでは、Arduinoで設計された圧力センサーを使用しました。このレポジトリは、シミュレーションUIの流れだけを扱っています。
 
 ### ✳ こだわり
+圧迫するリズムに対して、ユーザーが視覚的にフィードバックを受けられるようにUIを設計しました。
 
 ### ✳ Sample Scene
 
