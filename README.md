@@ -5,7 +5,7 @@ CPR Simulation with Augmented Reality
 心肺蘇生法は重要ですが、実際にトレーニングを体験する機会は限られています。そこて、HMDを使用して、より手軽に心肺蘇生法のシミュレーションを行えるように設計したデモプロジェクトです。
 
 ### ✳ Environment 
-* Unity 2022.3.21f 
+* Unity 2022.3.53f1 
 * Meta Quest 3, Meta All-in-One SDK
 
 ### ✳ Role 
