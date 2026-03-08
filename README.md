@@ -6,6 +6,7 @@ CPR Simulation with Augmented Reality
 <details>
   <summary>🇰🇷 한국어 (Korean)</summary>
   <br>
+  
   ### ✳ Introduction
   심폐소생술은 중요하지만 실제로 연습할 수 있는 기회는 제한되어 있다. 따라서 HMD를 사용해 더욱 가볍게 심폐소생술을 경험할 수 있도록 시뮬레이션 프로젝트를 고안했다.
   
@@ -25,6 +26,7 @@ CPR Simulation with Augmented Reality
 <details>
   <summary>🇯🇵 日本語 (Japanese)</summary>
   <br>
+  
   ### ✳ Introduction
   心肺蘇生法は重要ですが、実際にトレーニングを体験する機会は限られています。そこて、HMDを使用して、より手軽に心肺蘇生法のシミュレーションを行えるように設計したデモプロジェクトです。
   
